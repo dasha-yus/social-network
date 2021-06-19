@@ -1,0 +1,24 @@
+.nav {
+    background-color: #FB4625;
+    width: 20%;
+    height: 100vh;
+    font-size: 1.2rem;
+    color: rgb(31, 33, 44);
+}
+
+.item {
+    margin: 10px 20px;
+}
+
+.item a {
+    color: rgb(31, 33, 44);
+    text-decoration: none;
+}
+
+.item a i {
+    margin-right: 10px;
+}
+
+.item a.active {
+    color: white;
+}
