@@ -1,5 +1,6 @@
 .users {
     padding: 10px 20px;
+    color: rgb(31, 33, 44);
 }
 
 .users h2 {
@@ -37,4 +38,20 @@
 .location {
     display: flex;
     justify-content: space-between;
+}
+
+.pages {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.pages span {
+    margin-right: 5px;
+    cursor: pointer;
+    color: rgb(31, 33, 44);
+}
+
+.selectedPage {
+    font-weight: bold;
+    color: black;
 }
